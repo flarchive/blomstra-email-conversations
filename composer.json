@@ -1,0 +1,52 @@
+{
+    "name": "blomstra/email-conversations",
+    "description": "Start discussions and reply to discussions via email ",
+    "keywords": [
+        "flarum"
+    ],
+    "homepage": "https://blomstra.net",
+    "support": {
+        "source": "https://github.com/blomstra/flarum-ext-email-conversations",
+        "issues": "https://github.com/blomstra/flarum-ext-email-conversations/issues",
+        "email": "helpdesk@blomstra.net"
+    },
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "flarum/core": "^1.2.0",
+        "mailgun/mailgun-php": "^3.5",
+        "symfony/http-client": "^6.0",
+        "nyholm/psr7": "^1.5",
+        "flarum/approval": "*",
+        "flarum/mentions": "*",
+        "flarum/tags": "*",
+        "flarum/subscriptions": "*",
+        "blomstra/conversations": "@beta",
+        "league/html-to-markdown": "^5.1",
+        "fof/upload": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\EmailConversations\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Conversations by Email",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-mail-bulk",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}
