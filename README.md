@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of blomstra/email-conversations.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/email-conversations) or the [upstream repository](https://github.com/blomstra/flarum-ext-email-conversations).
 
-**0** versions archived · Latest: [`0.1.0-beta.11`](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.11) · License: `MIT` · Flarum: `^1.6.3`
+**11** versions archived · Latest: [`0.1.0-beta.11`](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.11) · License: `MIT` · Flarum: `^1.6.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2022-05-23 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.10` | 2023-02-09 | `^1.6.3` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.10) |
+| `0.1.0-beta.11` | 2023-02-15 | `^1.6.3` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.11) |
+| `0.1.0-beta.2` | 2022-05-26 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.2) |
+| `0.1.0-beta.3` | 2022-06-13 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.3) |
+| `0.1.0-beta.4` | 2022-06-17 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.4) |
+| `0.1.0-beta.5` | 2022-08-12 | `^1.3.1` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.5) |
+| `0.1.0-beta.6` | 2022-11-08 | `^1.3.1` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.6) |
+| `0.1.0-beta.7` | 2023-02-07 | `^1.6.3` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.7) |
+| `0.1.0-beta.8` | 2023-02-09 | `^1.6.3` | [Browse](https://github.com/flarchive/blomstra-email-conversations/tree/archive/v0.1.0-beta.8) |
+
+[View all 11 versions](https://github.com/flarchive/blomstra-email-conversations/tags)
 
 Catalog entry: [packages/blomstra-email-conversations.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-email-conversations.json)
 
